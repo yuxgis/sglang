@@ -1,0 +1,14 @@
+python/sglang/srt/layers/quantization/utils.py
+  h_541361c6b69cd4 85-90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "2.36.0",
+  "base_commit_sha": "3f0c7f083d27bb03fec6366859794ff1134305dc",
+  "prompts": {},
+  "humans": {
+    "h_541361c6b69cd4": {
+      "author": "e00633 <cookyu@birentech.com>"
+    }
+  }
+}
